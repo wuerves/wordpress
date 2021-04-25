@@ -12,20 +12,20 @@
 
 ![](https://www.jv98.com/wp-content/uploads/2020/10/dedemo121245.png)
 
-*   ### [wordpress响应式企业主题:enterprise-D1](https://www.jv98.com/691.html)
+*   ### [wordpress响应式企业主题:enterprise-D1](https://www.54u.net/691.html)
     
     这是一款wordpress响应式企业主题，响应速度快，seo优化，这套主题设计非常美观现代清爽，响应式布局，能 \[&he…
     
 *   ![](https://www.jv98.com/wp-content/uploads/2020/09/demo-640x360.png)
     
-    ### [WordPress红色财经股票外汇网站主题：pron-red](https://www.jv98.com/4.html)
+    ### [WordPress红色财经股票外汇网站主题：pron-red](https://www.54u.net/4.html)
     
     红色财经红色财经股票外汇网站Wordpress主题，速度快，利于优化，欢迎下载 该主题属于财经资讯类的网站设计开发，自适…
     
 
 *   ![](https://www.jv98.com/wp-content/uploads/2020/09/deniidi555.png)
     
-    ### [WordPress付费下载，付费阅读类主题](https://www.jv98.com/245.html)
+    ### [WordPress付费下载，付费阅读类主题](https://www.54u.net/245.html)
     
     本主题基于wndt-master主题和一款wnd-frontend-master插件集成开发而成,主要功能包含付费下载，付费阅读，支付支持支付宝即时到账功能，注册功能支持邮箱注册，手机号注册，qq互联注册。## 目标
 
